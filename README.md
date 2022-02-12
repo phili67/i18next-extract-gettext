@@ -12,7 +12,7 @@ and
 
 ```
 cp  node_modules/i18next-extract-gettext/index.js /usr/bin/i18next-extract-gettext
-
+```
 
 ## Usage
 
