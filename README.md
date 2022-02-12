@@ -5,8 +5,14 @@
 ## Install
 
 ```bash
-npm install i18next-extract-gettext
+ npm i github:phili67/i18next-extract-gettext
 ```
+
+and
+
+```
+cp  node_modules/i18next-extract-gettext/index.js /usr/bin/i18next-extract-gettext
+
 
 ## Usage
 
